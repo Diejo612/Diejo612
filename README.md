@@ -3,14 +3,17 @@
 
 - 🌱 I’m currently learning **React.Js, Ruby on Rails**
 
+- 👨‍💻 All of my projects are available at [troopl.com/jean](troopl.com/jean)
+
 - 📫 How to reach me **diegojeanpier.dc@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAE5F7QVlyM/bzk6PTSRbZ0OL9UGvs8dwQ/view?utm_content=DAE5F7QVlyM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE5F7QVlyM/bzk6PTSRbZ0OL9UGvs8dwQ/view?utm_content=DAE5F7QVlyM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+- ⚡ Fun fact **al principio no quería ser programador**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeanchavezd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeanchavezd" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/diego-chavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="diego-chavez" height="30" width="40" /></a>
 <a href="https://instagram.com/juandiegojeanpier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juandiegojeanpier" height="30" width="40" /></a>
 </p>
 
@@ -20,3 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jean612&show_icons=true&locale=en&layout=compact" alt="jean612" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jean612&show_icons=true&locale=en" alt="jean612" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jean612&" alt="jean612" /></p>
+
