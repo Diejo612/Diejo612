@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean Chavez</h1>
 <h3 align="center">A passionate full stack web developer from Peru</h3>
 
-- 🌱 I’m currently learning **React.Js, Ruby on Rails**
+<span align='center'> - 🌱 I’m currently learning **React.Js, Ruby on Rails** </span>
 
 - 👨‍💻 All of my projects are available at [troopl.com/jean](troopl.com/jean)
 
