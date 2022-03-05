@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **diegojeanpier.dc@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE5F7QVlyM/bzk6PTSRbZ0OL9UGvs8dwQ/view?utm_content=DAE5F7QVlyM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE5F7QVlyM/bzk6PTSRbZ0OL9UGvs8dwQ/view?utm_content=DAE5F7QVlyM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 My CV [https://www.canva.com/design/DAE5F7QVlyM/bzk6PTSRbZ0OL9UGvs8dwQ/view?utm_content=DAE5F7QVlyM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE5F7QVlyM/bzk6PTSRbZ0OL9UGvs8dwQ/view?utm_content=DAE5F7QVlyM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- ⚡ Fun fact **al principio no quería ser programador**
+- ⚡ Fun fact **Al principio no quería ser programador**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jean612&show_icons=true&locale=en" alt="jean612" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jean612&" alt="jean612" /></p>
-
